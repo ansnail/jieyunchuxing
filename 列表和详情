@@ -1,0 +1,5 @@
+{"msgcode":"0","message":"请求成功","timestamp":"20160925213433","obj":{"id":"fbdaa077575f2f3e01575f49e5ef0002","ostatus":"1","ocount":3,"stime":"11:00","cost":"105","remark":""}}
+
+
+
+{"msgcode":"0","message":"请求成功","timestamp":"20160925211532","obj":{"orderlist":[{"id":"fbdaa077575f2f3e01575f49e5ef0002","ostatus":"1","saddress":"法库县","daddress":"沈阳市","stime":"11:00"},{"id":"fbdaa077575f2f3e01575f4a958a0003","ostatus":"1","saddress":"法库县","daddress":"沈阳市","stime":"11:00"},{"id":"fbdaa077575f2f3e01575f582b8a0004","ostatus":"2","saddress":"法库县","daddress":"沈阳市","stime":"11:16"},{"id":"fbdaa077575f2f3e01575f59f3c30005","ostatus":"3","saddress":"法库县","daddress":"沈阳市","stime":"11:16"}]}}

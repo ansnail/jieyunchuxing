@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--捷运蓝 -->
+    <color name="jieyun_blue">#4490E9</color>
+    <color name="white">#FFFFFF</color>
+    <color name="jieyun_gray">#F2F2F2</color>
+    <color name="text_black">#4D4D4D</color>
+    <color name="text_gray">#B6B6B6</color>
+    
+    
+</resources>
