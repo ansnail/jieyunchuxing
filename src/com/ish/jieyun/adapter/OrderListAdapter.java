@@ -1,6 +1,9 @@
-package com.ish.jieyun.adapter.base;
+package com.ish.jieyun.adapter;
 
 import java.util.List;
+
+import com.ish.jieyun.adapter.base.CommonAdapter;
+import com.ish.jieyun.adapter.base.ViewHolder;
 
 import android.content.Context;
 
